@@ -1,5 +1,5 @@
 # Artificial-Intelligence-Project
-### Authors: Aadi Gopi, Janine Yanes, Jason Cai
+### Project Team: Aadi Gopi, Janine Yanes, Jason Cai
 
 ### Project Overview
 This repository contains the final project for the Intro to AI course. We implemented and compared three models - Perceptron, Neural Network, and PyTorch Neural Network - on two datasets: Faces and Digits. The goal was to analyze how training size impacts accuracy, error, standard deviation, and training time.
